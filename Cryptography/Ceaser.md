@@ -1,1 +1,1 @@
-Using ceaser cipher rot22 online calculator
+As given in the challenge, using cipher ceaser converter I got all the possible chances of flags, and while going through the obtained list of flags, the one which was grammetically correct was the one rotated by 22.
