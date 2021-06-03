@@ -1,0 +1,1 @@
+Using the exiftool command I got a sting in the are in license and decoding that using base64 decoder I got the flag.

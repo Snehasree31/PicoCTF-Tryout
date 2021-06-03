@@ -1,0 +1,1 @@
+Using cat command will give the flag

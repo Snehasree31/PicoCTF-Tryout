@@ -1,0 +1,1 @@
+Using string command along with grep "pico" command so that my job is simpler.

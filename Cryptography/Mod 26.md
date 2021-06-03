@@ -1,0 +1,1 @@
+The given string that is "cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_nSkgmDJE}" was rotated by place 13, so to simplfy my task I used an online ROT calculator.And then the flag was obtained.

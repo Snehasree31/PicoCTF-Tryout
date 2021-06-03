@@ -1,0 +1,1 @@
+While going through the image I got that the numbers corresponds to the alphabets, So I converted the numbers to alphabets and initially I had sumbitted the flag in all lower case but it was not accepted then I changed it to all upper case then it was accepted.

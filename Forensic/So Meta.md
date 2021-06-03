@@ -1,0 +1,1 @@
+Using strings command we can find the flag.

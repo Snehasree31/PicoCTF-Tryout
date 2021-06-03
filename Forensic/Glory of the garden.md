@@ -1,0 +1,1 @@
+Using ghex hex editor the flag was obtained.

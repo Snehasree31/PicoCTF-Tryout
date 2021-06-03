@@ -1,0 +1,1 @@
+It is just hexadecimal to decimal convertion of the given hexadecimal number.

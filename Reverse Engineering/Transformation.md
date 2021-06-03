@@ -1,0 +1,1 @@
+I got that the given file was utf-8 by using file command, then converted the given utf-8 string to utf-16 string (using online converter) then by using hex to ascii converter , I got the flag.

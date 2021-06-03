@@ -1,0 +1,1 @@
+By converting base10 to base 2.

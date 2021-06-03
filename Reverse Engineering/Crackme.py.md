@@ -1,0 +1,1 @@
+In the given file itself it is mentioned that it is a rot47 condition, In the python file itself the string to be rot 47 times was given and then by using rot 47 claculator I obtained the flag.  

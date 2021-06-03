@@ -1,0 +1,1 @@
+In the given file at the end the flag is given and simply by connecting the "pico{" with the flag we get the flag. 

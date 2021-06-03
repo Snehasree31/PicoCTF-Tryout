@@ -1,0 +1,1 @@
+It is mentioned about charAT() in the hint, I just manually took out the characters corresponding to each position, for example charAT(0)='d' then I considered it as in the first position of the string.
