@@ -1,1 +1,1 @@
-Using the exiftool command I got a sting in the are in license and decoding that using base64 decoder I got the flag.
+While checking with exiftool command an unusual string on the area license was obtained. The unusual string is decoded using base 64 decoder.And now the flag is obtained.
