@@ -1,1 +1,1 @@
-foremost tool and finally cat
+Using the foremost tool I obtained a zip file and a png file.In the zip file there is another image file but some file is hidden inside it, now the given file is again extracted using foremost tool and again a zip file is obtained, repeating this same process to two times will give a file named flag. Now finally using cat command open the file. Now the flag is obtained. 
